@@ -1,0 +1,11 @@
+# Compiled programs
+*.exe
+*.out
+tic-tac-toe
+
+# Build folders
+build/
+cmake-build-*/
+
+# Editor settings
+.vscode/
